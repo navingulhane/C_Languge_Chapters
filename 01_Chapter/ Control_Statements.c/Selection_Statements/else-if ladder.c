@@ -1,10 +1,10 @@
 Else-If Ladder
-📌 Definition
+Definition
 
 The else-if ladder is used when you have multiple conditions to check.
 Each condition is evaluated one after another.
 
-🧠 Syntax
+ Syntax
 if (condition1) {
     // block 1
 } else if (condition2) {
@@ -15,7 +15,7 @@ if (condition1) {
     // default block
 }
 
-📝 Example
+ Example
 #include <stdio.h>
 
 int main() {
