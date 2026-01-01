@@ -1,4 +1,4 @@
-//
+//prime no betwn 1
 #include <stdio.h>
 
 int main() {
