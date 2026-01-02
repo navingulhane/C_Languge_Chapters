@@ -1,4 +1,4 @@
-.Nested IF-ELSE
+Nested IF-ELSE
  Definition
 
 A nested if-else means placing one if/else block inside another.
