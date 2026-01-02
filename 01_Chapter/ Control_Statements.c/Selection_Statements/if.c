@@ -1,4 +1,4 @@
-IF Statement
+.IF Statement
  Definition
 
 The if statement checks a single condition.
